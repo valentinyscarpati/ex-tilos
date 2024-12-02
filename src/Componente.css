@@ -1,0 +1,17 @@
+.titulo{
+    background-color: yellow;
+}
+
+.titulo-normal{
+    font-size: 40px;
+    color: white;
+    background-color: black;
+    padding: 5px;
+}
+
+.titulo-diferente{
+    font-size: 80px;
+    color: purple;
+    background-color: yellow;
+    padding: 10px;
+}
